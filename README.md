@@ -39,8 +39,8 @@ Currently, I’m exploring **data analytics** and **AI-powered applications**, a
 
 ## 📊 GitHub Stats  
 
-![Qaseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaseem2109&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaseem2109&layout=compact&theme=tokyonight)  
+(https://github-readme-stats.vercel.app/api?username=qaseem2109&show_icons=true&theme=tokyonight)  
+(https://github-readme-stats.vercel.app/api/top-langs/?username=qaseem2109&layout=compact&theme=tokyonight)  
 
 ---
 
