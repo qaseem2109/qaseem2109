@@ -3,50 +3,115 @@
 🎓 **BS Software Engineering** – University of Karachi
 📚 **Student** – Saylani Mass IT Training Program (AI & Data Science)
 
----
+🚀 Aspiring AI/ML Engineer  | Web Developer | Flutter Developer
 
-## 📝 About Me
-
-I’m passionate about **Data Science** and **Artificial Intelligence**, with hands-on experience in:
-
-* 🐍 **Python Libraries:** Pandas, NumPy, Seaborn, Matplotlib
-* 🎨 **Frontend:** HTML, CSS, JavaScript (Certified)
-* ⚙️ **Backend:** Django (Project experience)
-* 📊 **DSA Concepts:** Time & Space Complexity understanding
-* 💻 **Programming Skills:** Python (proficient), JavaScript (intermediate)
-
-Currently exploring **data analytics** and **AI-powered applications**, aiming to specialize in **Machine Learning** and **Generative AI**.
+I’m a Software Engineering student passionate about building real-world applications and intelligent systems. I enjoy working across **mobile apps, web development, and machine learning**, and continuously improving my skills by building practical projects.
 
 ---
 
-## 🚀 Skills & Tools
+## 🎓 Education
 
-**Languages:** Python, Dart, C, JavaScript, HTML, CSS
-**Data Science:** Pandas, NumPy, Seaborn, Matplotlib
-**Frameworks:** Django, Flutter, Tailwind
-**Concepts:** DSA, Complexity Analysis
-**Version Control:** Git & GitHub
+- 🎓 BS Software Engineering — University of Karachi (2024 – 2027)
+- 📊 AI & Data Science — Saylani Mass IT Training (2025)
+- 🧮 Pre-Engineering — Govt. Islamia Science College (80%)
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tech Stack
 
-* Enhance skills in **Machine Learning** and **Generative AI**
-* Build impactful **AI and data‑driven applications**
-* Collaborate on **open‑source projects**
+### 💻 Programming Languages
+- Python  
+- Dart  
+- JavaScript  
+- SQL  
+- C  
+
+### 📱 Development
+- Flutter (Mobile App Development)
+- HTML, CSS, JavaScript (Frontend Development)
+- Bootstrap  
+
+### 🤖 AI / Machine Learning
+- Regression Models  
+- Data Analysis & Visualization  
+- Deep Learning (YOLOv8, OCR)  
+- Feature Engineering  
+
+### 📊 Data Science Tools
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+- Google Colab  
+
+### ⚙️ Frameworks & Tools
+- Streamlit  
+- Django  
+- Git & GitHub  
+- VS Code  
+- Ubuntu  
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qaseem2109\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
+- 🔗 LangChain (for AI-powered applications)
+- 🤖 Advanced Machine Learning & Deep Learning
+- 🧠 Building AI-integrated applications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaseem2109\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
+---
+
+## 🚀 Projects
+
+### 🔹 Uber Fare Prediction
+- Built an end-to-end ML pipeline using regression models
+- Deployed with Streamlit for interactive predictions  
+👉 [View Project](https://github.com/qaseem2109/Uber_Fare_Prediction_With_StreamLit)
+
+---
+
+### 🔹 Salary Prediction using CGPA
+- Linear Regression model to predict salary based on CGPA  
+- Evaluated using MSE & R² Score  
+
+👉 [View Project](https://github.com/qaseem2109/Linear_Regression_Model)
+
+---
+
+### 🔹 Vehicle Number Plate Detection
+- YOLOv8-based object detection system  
+- OCR used to extract plate numbers  
+- Works on images, videos, and real-world scenarios  
+
+👉 [View Project](https://github.com/qaseem2109/License_Number_Plate_Detector)
+
+---
+
+### 🔹 Netflix Data Analysis
+- Performed EDA using Pandas & Seaborn  
+- Visualized trends in content, genres, and releases  
+
+👉 [View Project](https://github.com/qaseem2109/Netflix_Data_Analysis)
+
+---
+
+## 💼 Experience
+
+- 📞 Call Center Sales Agent (8 months)  
+  - Strong communication & problem-solving skills  
+  - Customer handling and persuasion  
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-qaseem-75839b290/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/qaseem2109)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:qaseem2109@gmail.com)
+- 📧 Email: qaseem2109@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-qaseem-75839b290/  
+- 💻 GitHub: https://github.com/qaseem2109  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy combining **software development + AI** to build smart, real-world solutions 🚀
